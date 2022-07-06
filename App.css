@@ -1,0 +1,8 @@
+.App{
+  display: grid;
+  grid-template-columns: auto;
+}
+.button{
+  position:absolute;
+  background-color: cadetblue;
+}
